@@ -6,6 +6,7 @@ Group Member: 5
 | ------------- | ------------- |
 | 60152         | Ismail Javery|
 | 60286         | Talha Tajdeed  |
+| 59925         | Maaz Hussain Hashmi |
 | 62063         | Momin Aslam  |
 | 60786         | Abdullah Farooqi |
-| 59925         | Maaz Hussain Hashmi |
+
