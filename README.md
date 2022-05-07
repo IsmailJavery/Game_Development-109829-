@@ -1,9 +1,11 @@
 # Game_Development-109829-
-Project :
-Group Member:
+Project : Zig Zag Infinity Runner
+Group Member: 5
 
-Talha (60286)
-Ismail (60152)
-Momin(62063)
-Abdullah(60786)
-Maaz Hussain Hashmi(59925)
+| Student Id    | Student Name |
+| ------------- | ------------- |
+| 60152         | Ismail Javery|
+| 60286         | Talha Tajdeed  |
+| 62063         | Momin Aslam  |
+| 60786         | Abdullah Farooqi |
+| 59925         | Maaz Hussain Hashmi |
